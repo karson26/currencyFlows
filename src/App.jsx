@@ -1,14 +1,11 @@
 import React from 'react';
-
-import './App.scss';
-import Charts from './charts';
+import SlashInput from './SlashInput';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <Charts />
-      </header>
+      <SlashInput />
+      {/* <Charts /> */}
     </div>
   );
 }

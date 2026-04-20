@@ -15,6 +15,7 @@
     "@babel/core": "^7.28.5",
     "@babel/preset-env": "^7.28.5",
     "@babel/preset-react": "^7.28.5",
+    "@huggingface/transformers": "^3.8.1",
     "babel-loader": "^10.0.0",
     "css-loader": "^7.1.2",
     "echarts": "^6.0.0",
